@@ -1,42 +1,28 @@
-*This repository is passively maintained: issues will be addressed -- especially if they come with a suggested solution -- but there is no active updates to the data or code. Contributions are welcome.*
-
-# Machine Learning's CO2 Impact
-
-Checkout the [**online GPU emissions calculator**](https://mlco2.github.io/impact)!
-
-[![](https://i.postimg.cc/pTqVSx7N/Capture-d-e-cran-2019-11-07-a-12-41-58.png)](https://mlco2.github.io/impact)
-
-By A. Lacoste, A. Luccioni, V. Schmidt
-
-Read our paper on [**Quantifying Carbon Emissions of Machine Learning**](https://arxiv.org/pdf/1910.09700) (NeurIPS 2019, Climate Change AI Workshop)
-
-Use our **generated latex template** which automatically includes the Calculator's output for you to easily report your procedure's CO2 eq. emissions
-
-[![](https://raw.githubusercontent.com/mlco2/impact/master/img/template.png)](https://mlco2.github.io/impact#publish)
-
-## Contributing
-
-### Setup
-
-1. [Install `yarn`](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable): Node's package manager
-2. [Install `gulp`](https://gulpjs.com/): a build tool
-3. Install dependencies: from the root of this repo `$ yarn install`
-4. Run the local server: `$ gulp watch`
-5. Edit files! Gulp will watch for changes, build the differences and reload the browser
-
-### Content
-
-`html` files are split by section in the `html/` folder, and then built into the `index.html` file.
-
-After editing content, if `gulp watch` was running, you're good ; otherwise, run `gulp build` to apply your changes.
-### Data
-
-Anything to say or add? See [`data/`](https://github.com/mlco2/impact/tree/master/data)
-
-## Acknowledgements
-
-Special thanks to
-
-* https://sharingbuttons.io/
-* [prism.js](https://prismjs.com/)
-* https://unsplash.com/
+TEAM PINNACLE
+ECO CORP
+Environmental Sustainability
+Problem Statement: Real-Time Machine Learning for Pollution Reduction and
+Maximize Environmental Impact
+PROPOSED SOLUTION: It is a System where all the IT corporates take the initiative
+to detect and reduce carbon emission of the industry and the workers. The
+employees everyday carbon emission is calculated in Realtime and various tasks
+and challenges are given to do carbon offset.
+ECO2RP: A Realtime ML model to calculate and reduce the amount of carbon
+released in Corporate Organisations.
+OUR FOCUS:
+1.Predictive Air Quality Management:
+• The Model is trained to specially identify the amount of carbon released
+during the usage of various hardware and software used in the corporate.
+• It calculates the average carbon emitted by an employee of the corporate
+2. Dynamic Resource Allocation for Environmental Initiatives:
+• The model is trained to predict the average carbon emitted by each resource,
+with that the resources are chosen wisely and allocated dynamically.
+3. Enhanced Public Awareness and Engagement:
+• Employees are made to take up challenges and complete tasks and they are
+rewarded. E.g.: Plant Sapling, Carbon offset, Car-pooling, Use Public
+Transport, Use Solar energy.
+• The company’s which reduce their carbon emission for a period of time can
+be certified with an ECO CORP badge
+• The employees create awareness among their families.
+• The corporates can complete among themselves to gain the badge ECO
+CORP, it creates a Greener Future.
